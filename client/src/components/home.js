@@ -10,7 +10,7 @@ const Home = () => (
     <Menu />
     <Header title='MY BLOG'/>
     <Dividerh />
-    <ImageEx loc='/images/profile.jpeg' sz='medium'/>
+    <ImageEx loc='/images/profile.jpeg' sz='medium' shape='c'/>
     <Dividerh />
     <Content head='First post'>
         First Post
